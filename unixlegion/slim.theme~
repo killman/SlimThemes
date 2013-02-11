@@ -1,3 +1,8 @@
+# Archlinux SLiM Theme
+# Thayer Williams
+# thayer@archlinux.org
+# http://www.cinderwick.ca
+
 # messages (ie: shutdown, session options, etc)
 msg_color               #00FFFF
 msg_font                Sans:size=10:bold:dpi=96
