@@ -1,1 +1,2 @@
- ~#cp unixlegion /usr/share/slim/themes/
+Install
+~#cp unixlegion /usr/share/slim/themes/
