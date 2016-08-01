@@ -1,5 +1,5 @@
 #################################################
-jedi-vim - awesome Python autocompletion with VIM
+Screenshot
 #################################################
 
 .. image:: https://raw.githubusercontent.com/killman/SlimThemes/master/unixlegion/preview.png
