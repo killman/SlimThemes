@@ -2,5 +2,4 @@
 Preview
 #################################################
 
-.. image:: https://raw.githubusercontent.com/killman/SlimThemes/master/unixlegion/preview.png
-
+.. image:: http://dl.unixlegion.com/i/19FOITjlyTw.jpg 
