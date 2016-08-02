@@ -2,4 +2,4 @@
 Preview
 #################################################
 
-.. image:: http://dl.unixlegion.com/i/19FOlTjlyTw.jpg 
+.. image:: http://dl.unixlegion.com/i/19FOlTjIyTw.jpg 
